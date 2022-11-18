@@ -3,3 +3,16 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{text-align: center;}
+div{background-color: red;}
+nav{background-blend-mode: gray;}
+div{position: ;}
+image.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+}
+a:link{colour:blue;}
+a:visited{colour:purple}
